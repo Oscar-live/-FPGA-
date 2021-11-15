@@ -1,0 +1,7 @@
+# Object files
+*.o
+*.ko
+*.obj
+riscv_main.bin
+riscv_main.dump
+riscv_main
